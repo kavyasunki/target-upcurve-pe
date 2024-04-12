@@ -1,0 +1,5 @@
+Java is a programming language and computing platform.
+It is fast, reliable, and secure.
+Java is widely used for developing applications.
+Java applications can run on any device that supports Java.
+The popularity of Java has made it a sought-after skill for developers.
